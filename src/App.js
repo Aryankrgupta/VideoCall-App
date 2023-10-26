@@ -1,10 +1,10 @@
 
-import Card from './Card/Card'
+import Video from './VideoCall/Video'
 
 const App = () => {
   return (
     <div>
-    <Card />
+    <Video />
     </div>
   )
 }
